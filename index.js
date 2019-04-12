@@ -10,6 +10,7 @@ const chars = {
     '&quot;': `"`,
     '&gt;': `>`,
     '&lt;': `<`,
+    '&amp;': `&`,
 };
 
 const charsRegex = new RegExp(`(${Object.keys(chars).join(`|`)})`, `g`);
