@@ -10,12 +10,12 @@
   "author": "YouTwitFace <contact@lungers.com>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^7.0.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
-    "telegraf": "^3.27.1"
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "telegraf": "^3.38.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.3"
+    "eslint": "^7.5.0"
   }
 }
